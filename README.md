@@ -21,9 +21,9 @@
 
 ## Project Presentation:
 
-<strong>Link:</strong>https://github.com/laibaa1209/OOP-Project-Space-Invaders-/blob/08e6ea423da7cd1941816529d740101fcb138c13/OOP%20PROJECT%20ppt.pdf
+[Link For Project Presentation](https://github.com/laibaa1209/OOP-Project-Space-Invaders-/blob/08e6ea423da7cd1941816529d740101fcb138c13/OOP%20PROJECT%20ppt.pdf)
 
 ## Project Proposal: Space Invaders
 ![image](https://github.com/laibaa1209/OOP-Project-Space-Invaders-/assets/142867994/20b058fd-667c-4f04-b262-f7c2bde478d0)
 
-<strong>Link:</strong> (https://github.com/laibaa1209/OOP-Project-Space-Invaders-/blob/d013bf38d715047d95db8a78f59714249f9ce573/OOP%20Project%20Proposal.docx)
+[Link For Project Proposal](https://github.com/laibaa1209/OOP-Project-Space-Invaders-/blob/d013bf38d715047d95db8a78f59714249f9ce573/OOP%20Project%20Proposal.docx)
