@@ -27,3 +27,5 @@
 ![image](https://github.com/laibaa1209/OOP-Project-Space-Invaders-/assets/142867994/20b058fd-667c-4f04-b262-f7c2bde478d0)
 
 [Link For Project Proposal](https://github.com/laibaa1209/OOP-Project-Space-Invaders-/blob/d013bf38d715047d95db8a78f59714249f9ce573/OOP%20Project%20Proposal.docx)
+
+##Approach
