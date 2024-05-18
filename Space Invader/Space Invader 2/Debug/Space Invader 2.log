@@ -1,0 +1,169 @@
+﻿  Space Invader 2.cpp
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(159,69): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(159,69): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(159,69): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(159,69): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(159,69): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(159,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(159,40): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(159,40): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(159,40): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(159,40): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,80): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,80): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,80): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,80): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,80): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,80): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,80): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,80): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,50): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,50): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,50): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,50): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,50): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,50): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,50): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(171,50): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,83): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,83): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,83): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,83): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,83): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,83): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,83): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,83): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,52): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,52): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,52): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,52): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,52): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,52): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,52): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(174,52): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(226,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(228,97): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(228,97): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(228,97): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(228,97): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(228,97): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(228,59): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(228,59): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(228,59): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(228,59): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(228,59): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,70): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,70): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,70): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,70): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,70): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,70): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,70): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,70): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,43): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,43): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,43): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,43): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,43): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,43): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,43): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,43): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(246,43): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,90): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,90): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,90): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,90): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,90): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,90): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,90): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,90): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,55): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,55): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,55): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,55): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,55): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,55): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,55): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(248,55): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,80): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,80): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,80): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,80): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,80): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,80): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,80): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,80): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,50): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,50): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,50): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,50): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,50): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,50): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,50): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(259,50): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,72): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,72): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,72): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,72): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,72): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,72): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,72): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,72): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,46): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,46): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,46): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,46): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,46): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,46): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,46): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(263,46): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,90): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,90): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,90): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,90): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,90): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,90): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,90): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,90): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,55): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,55): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,55): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,55): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,55): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,55): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,55): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(276,55): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,72): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,72): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,72): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,72): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,72): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,72): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,72): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,72): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,46): warning C4244:         with
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,46): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,46): warning C4244:             T=float
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,46): warning C4244:         ]
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,46): warning C4244:         and
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,46): warning C4244:         [
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,46): warning C4244:             T=int
+C:\VS Projects\Space Invader 2\Space Invader 2.cpp(280,46): warning C4244:         ]
+  Space Invader 2.vcxproj -> C:\VS Projects\Space Invader 2\Debug\Space Invader 2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
