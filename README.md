@@ -218,9 +218,13 @@ Finally, the main function displays the rendered graphics on the game window.
 Global functions in the Space Invaders project handle specific tasks such as updating player movement, handling bullet collisions, managing enemy behavior, and updating wall interactions.
 
 * <strong>updatePlayer(Player &player, Bullet &bulletPlayer):</strong> Updates player movement and shooting mechanics based on user input.
+
 * <strong>updateBulletPlayer(Bullet &bulletPlayer, vector<vector<Enemy>> &enemies):</strong> Updates bullet movement and checks for collisions between player bullets and enemies.
+
 * <strong>updateEnemies(vector<vector<Enemy>> &enemies):</strong> Updates enemy movement and shooting behavior, as well as handles changes in enemy direction and reset timers.
+
 * <strong>updateBulletsEnemies(Player &player):</strong> Updates enemy bullets' movement, checks for collisions with the player, and removes bullets that have passed the screen.
+
 * <strong>updateWall(vector<Wall> &wall, Bullet &bulletPlayer):</strong> Updates the state of walls based on collisions with bullets from both the player and enemies.
 
 
