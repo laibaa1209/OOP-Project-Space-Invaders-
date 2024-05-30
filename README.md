@@ -194,16 +194,21 @@ int main()
 }
 ```
 ### How It Works:
- <strong>1. Initialization: </strong>
+  <strong>1. Initialization: </strong>
 The main function initializes essential game objects such as the player, enemies, walls, and the game window. It also sets up any necessary audio resources.
-<strong> 2. Game Loop: </strong>
+
+ <strong> 2. Game Loop: </strong>
 The game loop continues as long as the game window is open and the background music is playing. This loop ensures that the game continues running and responding to user input.
-<strong> 3. Event Handling: </strong>
+
+ <strong> 3. Event Handling: </strong>
 Within the loop, the main function handles events such as window closure. It checks for user input and updates the game state accordingly.
+
  <strong>4. Update Functions: </strong>
 The main function calls various update functions to handle player movement, bullet movement, enemy behavior, bullet collisions, and wall interactions. These functions update the positions, states, and behaviors of game objects based on the current game state.
+
 <strong> 5. Rendering: </strong>
 After updating the game state, the main function clears the window and renders the updated game objects onto the screen.
+
 <strong> 4. Display: </strong>
 Finally, the main function displays the rendered graphics on the game window.
 
